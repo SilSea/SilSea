@@ -9,6 +9,7 @@ I’m a Fullstack Developer dedicated to building robust and high-performance ap
 My expertise spans across the entire development lifecycle—from designing efficient PostgreSQL schemas and cross-platform mobile apps with Flutter, to streamlining deployments using Docker, Linux, and CI/CD pipelines. I thrive on optimizing workflows and building tools that solve complex, real-world problems.
 
 * 🌍  I'm based in Bangkok, Thailand
+* 🖥️  See my portfolio at [Portfolio](http://silsea.github.io/Portfolio/)
 * ✉️  You can contact me at [nattawutpoolkhet@outlook.com](mailto:nattawutpoolkhet@outlook.com)
 
 <p align="left">
