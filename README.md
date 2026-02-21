@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nattawut Pulket
 ========================================================================================================================================
 
-Backend Developer
------------------
+Fullstack Developer
+-------------------
 
-👋 Hello, I'm Nattawut Pulket!
+I’m a Fullstack Developer dedicated to building robust and high-performance applications. With a "Backend-first" mindset, I specialize in crafting lightning-fast APIs and scalable server-side architectures using modern frameworks like NestJS and ElysiaJS.
 
-I'm a Backend Developer dedicated to building robust and scalable server-side applications. I enjoy working with modern frameworks like NestJS and ElysiaJS, designing efficient database schemas, and streamlining deployments using Docker and CI/CD pipelines. I'm always eager to learn new technologies and build tools that solve real-world problems.
+My expertise spans across the entire development lifecycle—from designing efficient PostgreSQL schemas and cross-platform mobile apps with Flutter, to streamlining deployments using Docker, Linux, and CI/CD pipelines. I thrive on optimizing workflows and building tools that solve complex, real-world problems.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nattawutpoolkhet@outlook.com](mailto:nattawutpoolkhet@outlook.com)
